@@ -1,1 +1,1 @@
-### Sample machine learning model deployed using Keras and Tensorflow
+Sample machine learning model deployed using Keras and Tensorflow
